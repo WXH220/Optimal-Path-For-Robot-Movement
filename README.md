@@ -100,7 +100,7 @@ There are three examples, all of them using the same obstacles:
 
 ## References
 
-- [PSO code](https://github.com/gabrielegilardi/PSO.git).
+- [PSO code](https://github.com/galisaishankar08/Optimal-Path-For-Robot-Movement).
 
 - [Centroid calculation](http://en.wikipedia.org/wiki/Centroid).
 
